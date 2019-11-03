@@ -1,0 +1,6 @@
+imports:
+    - { resource: services.yml }
+    - { resource: packages/doctrine.yml }
+    - { resource: packages/doctrine_migrations.yml }
+    - { resource: packages/fos_rest.yml }
+    - { resource: packages/jms_serializer.yml }
